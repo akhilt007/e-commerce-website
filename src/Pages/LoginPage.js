@@ -20,7 +20,7 @@ function LoginPage() {
 
   return (
     <>
-    <h1 className='container mt-5 text-align:center'>Welcome to your store</h1>
+   <h1 className='container mt-5 'style={{ color: 'black ', fontFamily:'fantasy', textAlign:'center' }}>Welcome to your store</h1>
     <div className="container mt-5">
       <div className="row justify-content-center">
         <div className="col-md-4">
